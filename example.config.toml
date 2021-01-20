@@ -1,0 +1,14 @@
+val_operator_addr = "secretvaloper1s30m847689cmtgphztaa7guaxnczddzhn63yl1"
+account_addr = "secret1s30m847689cmtgphztaa7guaxnczddzhzalejj"
+validator_hex_addr = "8F2927C1D0180B19087BB35DE19BABA4E0DE9231"
+lcd_endpoint = "http://localhost:1317"
+external_rpc = "http://localhost:26657"
+validator_name = "validator"
+
+alert_time1 = "07:23PM"
+alert_time2 = "08:15AM"
+
+[telegram]
+tg_chat_id = 510331001
+tg_bot_token = "1234567890"
+
